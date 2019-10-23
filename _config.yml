@@ -81,9 +81,9 @@ analytics:
 # Site Author
 author:
   name             : "Josh Ettinger"
-  avatar           : "profile.png"
-  bio              : "PhD Student"
-  location         : "University of Oxford, School of Geography and the Environment"
+  avatar           : "<a href=https://media.licdn.com/dms/image/C4E03AQF7mEdLU2unDA/profile-displayphoto-shrink_200_200/0?e=1577318400&v=beta&t=mOuqHAizDqXRuPQp87qmRfHZY-Z5WJN2BiHB0pXWs4c"></a>"
+  bio              : "PhD Student, University of Oxford"
+  location         : "Oxford, UK"
   employer         :
   pubmed           :
   googlescholar    :
@@ -209,15 +209,6 @@ defaults:
     values:
       layout: single
       author_profile: true
-  # _teaching
-  - scope:
-      path: ""
-      type: teaching
-    values:
-      layout: single
-      author_profile: true
-      share: true
-      comments: true
   # _publications
   - scope:
       path: ""
@@ -236,14 +227,6 @@ defaults:
       author_profile: true
       share: true
       comment: true
-  # _talks
-  - scope:
-      path: ""
-      type: talks
-    values:
-      layout: talk
-      author_profile: true
-      share: true
 
 # Sass/SCSS
 sass:
