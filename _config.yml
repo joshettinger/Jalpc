@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : Josh Ettinger
+title                    : "Josh Ettinger"
 title_separator          : "-"
 name                     : &name "Josh Ettinger"
 description              : &description "personal description"
@@ -80,8 +80,8 @@ analytics:
 
 # Site Author
 author:
-  name             : "Josh Ettinger"
-  avatar           : 
+  name             :
+  avatar           :
   bio              : "PhD Student," <br> "University of Oxford"
   location         : "Oxford, UK"
   employer         :
