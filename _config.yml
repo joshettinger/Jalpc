@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Josh Ettinger"
-  avatar           : "<a href=https://media.licdn.com/dms/image/C4E03AQF7mEdLU2unDA/profile-displayphoto-shrink_200_200/0?e=1577318400&v=beta&t=mOuqHAizDqXRuPQp87qmRfHZY-Z5WJN2BiHB0pXWs4c"></a>"
+  avatar           : 
   bio              : "PhD Student," <br> "University of Oxford"
   location         : "Oxford, UK"
   employer         :
