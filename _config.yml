@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "test"
+title                    : "Josh Ettinger"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "Josh Ettinger"
 description              : &description "personal description"
 url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -81,8 +81,8 @@ analytics:
 # Site Author
 author:
   name             : "Josh Ettinger"
-  avatar           : <img src="https://media.licdn.com/dms/image/C4E03AQF7mEdLU2unDA/profile-displayphoto-shrink_200_200/0?e=1577923200&v=beta&t=Kw6TgqBb_xDRffRMd4v5OJnjUy2EchVLYRXl9aqlxGk" class="author__avatar" alt="Josh Ettinger">
-  bio              : "PhD Student,<br>University of Oxford"
+  avatar           : <img src="https://media.licdn.com/dms/image/C4E03AQF7mEdLU2unDA/profile-displayphoto-shrink_200_200/0?e=1577923200&v=beta&t=Kw6TgqBb_xDRffRMd4v5OJnjUy2EchVLYRXl9aqlxGk" class="author__avatar" alt="Josh Ettinger"style="width:104px;height:142px;>
+  bio              : "PhD student bridging science and the arts"
   location         : "Oxford, UK"
   employer         :
   pubmed           :
