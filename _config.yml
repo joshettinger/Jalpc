@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Josh Ettinger"
-  avatar           : <img src="https://media.licdn.com/dms/image/C4E03AQF7mEdLU2unDA/profile-displayphoto-shrink_200_200/0" class="author__avatar" alt="Josh Ettinger"style="width:104px;height:142px;>
+  avatar           : <img src="https://joshettinger.github.io/assets/images/me.png" class="author__avatar" alt="Josh" itemprop="image">
   bio              : "PhD student bridging science and the arts"
   location         : "Oxford, UK"
   employer         :
@@ -215,32 +215,6 @@ defaults:
       author_profile: true
       share: true
       comments: true
-  # _publications
-  - scope:
-      path: ""
-      type: publications
-    values:
-      layout: single
-      author_profile: true
-      share: true
-      comments: true
-  # _portfolio
-  - scope:
-      path: ""
-      type: portfolio
-    values:
-      layout: single
-      author_profile: true
-      share: true
-      comment: true
-  # _talks
-  - scope:
-      path: ""
-      type: talks
-    values:
-      layout: talk
-      author_profile: true
-      share: true
 
 # Sass/SCSS
 sass:
