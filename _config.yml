@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Josh Ettinger"
-  avatar           : <img src="https://media.licdn.com/dms/image/C4E03AQF7mEdLU2unDA/profile-displayphoto-shrink_200_200/0?e=1577923200&v=beta&t=Kw6TgqBb_xDRffRMd4v5OJnjUy2EchVLYRXl9aqlxGk" class="author__avatar" alt="Josh Ettinger"style="width:104px;height:142px;>
+  avatar           : <img src="https://media.licdn.com/dms/image/C4E03AQF7mEdLU2unDA/profile-displayphoto-shrink_200_200/0" class="author__avatar" alt="Josh Ettinger"style="width:104px;height:142px;>
   bio              : "PhD student bridging science and the arts"
   location         : "Oxford, UK"
   employer         :
@@ -102,18 +102,18 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  linkedin         : "https://linkedin.com/in/joshuaettinger/"
+  orcid            :
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "@joshettinger"
+  twitter          : "https://twitter.com/joshettinger"
   vine             :
   weibo            :
   xing             :
-  youtube          :
+  youtube          : "https://youtube.com/joshinabout"
   wikipedia        :
 
 
@@ -175,16 +175,13 @@ kramdown:
 
 # Collections
 collections:
-  teaching:
+  Writing/Publications:
     output: true
     permalink: /:collection/:path/
-  publications:
+  Music/Video:
     output: true
     permalink: /:collection/:path/
-  portfolio:
-    output: true
-    permalink: /:collection/:path/
-  talks:
+  About:
     output: true
     permalink: /:collection/:path/
 
