@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Josh Ettinger"
-  avatar           : <img src="https://joshettinger.github.io/assets/images/me.png" class="author__avatar" alt="Josh" itemprop="image">
+  avatar           : <img src="https://joshettinger.github.io/assets/images/me" class="author__avatar" alt="Josh" itemprop="image">
   bio              : "PhD student bridging science and the arts"
   location         : "Oxford, UK"
   employer         :
