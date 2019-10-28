@@ -4,4 +4,7 @@ main:
     url: /publications/
 
   - title: "Music and Video"
-    url: /mandv/
+    url: /talks/    
+
+  - title: "Guide"
+    url: /markdown/
